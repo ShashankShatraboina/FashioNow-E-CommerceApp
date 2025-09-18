@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Website
 
-A fully responsive **E-Commerce Website** built using **HTML, CSS, and JavaScript** — without any frameworks or libraries (except [Glide.js](https://glidejs.com/) for the carousel).
+A fully responsive **FashioNow (E-Commerce Website)** built using **HTML, CSS, and JavaScript** — without any frameworks or libraries (except [Glide.js](https://glidejs.com/) for the carousel).
 
 ✨ Features:
 
