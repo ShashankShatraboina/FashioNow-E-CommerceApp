@@ -1,11 +1,14 @@
-# E-Commerce Project
+# 🛒 E-Commerce Website
 
+A fully responsive **E-Commerce Website** built using **HTML, CSS, and JavaScript** — without any frameworks or libraries (except [Glide.js](https://glidejs.com/) for the carousel).
 
-Hi, this project is a fully responsive e-commerce website project made only HTML, CSS and JavaScript.
+✨ Features:
 
-No framework or library (except glide.js) was used throughout the project.
+* Fully responsive design (mobile, tablet, desktop)
+* Modern and clean UI/UX
+* Product listing with categories
+* Shopping cart functionality
+* Smooth image slider with Glide.js
+* Lightweight and fast (no heavy frameworks)
 
-
-You can reach the live link of the project from the link below.
-
-Link : https://commerce-project.netlify.app/
+🔗 **Live Demo:** [E-Commerce App](https://e-commerce-app-shashank.vercel.app/)
